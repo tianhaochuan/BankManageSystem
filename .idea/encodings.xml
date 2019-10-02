@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/BankSystem/src/Test/FileRead.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Check.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/DrawMoney.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Inquiry.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/MD5.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Modify.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Register.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/ReportLose.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/SaveMoney.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/Transfer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/TransferToOthers.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankSystem/src/contentcl/UserMessage.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
